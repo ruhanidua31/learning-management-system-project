@@ -1,10 +1,13 @@
-import './App.css'
+import './App.css';
+import {routes} from 'react-router-dom';
 
 function App() {
 
   return (
     <>
-    lms
+    <routes>
+      {/* <route path="/" element= {<home />}</route> */}
+    </routes>
     </>
   )
 }
