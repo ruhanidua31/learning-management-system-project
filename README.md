@@ -1,12 +1,16 @@
-# learing management system
+# Learing management system
 
-## setup instructions
+### Setup instructions
 
-1. clone the project
+1. Clone the project
+```
+    git clone https://github.com/ruhanidua31/learning-management-system-project.git
 
-2. move into directary 
+```
+2. Move into directory
+```
+   cd lms-project
 
-<<<<<<< HEAD
 3. install dependencies
 =======
 ```
@@ -84,4 +88,3 @@
     }
 
 ```       
->>>>>>> 08c5ad9 (Configure auto import sort estlint)
